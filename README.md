@@ -16,19 +16,19 @@ Scrape a Wikipedia page of your choosing and record which passages need citation
 
 - [x] Create a function named get_citations_needed_count.
 
-- [x] Takes in a string.
+  - [x] Takes in a string.
 
-- [x] Returns an integer.
+  - [x] Returns an integer.
 
-- [x] Identify those cases and include the relevant passage. 
+  - [x] Identify those cases and include the relevant passage. 
 
 - [x] Create a function named get_citations_needed_report.
 
-- [x] Takes in a string.
+  - [x] Takes in a string.
 
-- [x] Returns a report string.
+  - [x] Returns a report string.
 
-- [x] The string should be formatted with each citation listed in the order found. 
+  - [x] The string should be formatted with each citation listed in the order found. 
 
 
 
