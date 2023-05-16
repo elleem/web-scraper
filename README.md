@@ -12,7 +12,7 @@ The Wikipedia page scraped in this project is: https://en.wikipedia.org/wiki/Bir
 
 Scrape a Wikipedia page of your choosing and record which passages need citations.
 
- -[x] Report the number of citations needed.
+-[x] Report the number of citations needed.
 
    -[x] Create a function named get_citations_needed_count.
 
@@ -20,7 +20,7 @@ Scrape a Wikipedia page of your choosing and record which passages need citation
 
    -[x] Returns an integer.
 
- -[x] Identify those cases and include the relevant passage. 
+-[x] Identify those cases and include the relevant passage. 
 
     -[x] Create a function named get_citations_needed_report.
 
